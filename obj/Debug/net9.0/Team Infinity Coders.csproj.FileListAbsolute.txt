@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\bin\Debug\net9.0\Team Infinity Coders.exe
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\bin\Debug\net9.0\Team Infinity Coders.deps.json
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\bin\Debug\net9.0\Team Infinity Coders.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\bin\Debug\net9.0\Team Infinity Coders.dll
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\bin\Debug\net9.0\Team Infinity Coders.pdb
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\Team Infinity Coders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\Team Infinity Coders.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\Team Infinity Coders.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\Team Infinity Coders.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\Team Infinity Coders.dll
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\refint\Team Infinity Coders.dll
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\Team Infinity Coders.pdb
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\Team Infinity Coders.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Team Infinity Coders\obj\Debug\net9.0\ref\Team Infinity Coders.dll
